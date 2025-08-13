@@ -3,11 +3,20 @@ Build type: Monthly or Weekly
 Device: POCO X4 Pro 5G/ Redmi Note 11 Pro 5G/ 11 Pro + 5G/ 11E Pro (veux/peux)
 Kernel maintainer: @TogoFire & @Karan-Frost
 
-Nebula r05 - May, 25, 2025
+---
+
+Nebula r05.1 - August 13, 2025
+- Added support for Device As Webcam.
+- Uprev KernelSU.
+- Rebased over latest Positron kernel (20250711).
+
+Nebula r05 - May 25, 2025
 - Updated fw-api to _LA.UM.9.14.r1-26000-LAHAINA.QSSI15.0_.
 - Rebased over latest Positron kernel (20250525).
 - Minor scheduler improvements
 - Supports both OSS and prebuilt audio HAL.
+
+---
 
 Nebula r04 - May 21, 2025
 - Fix zram enable in zstd (undo recent compression and API changes).
@@ -118,6 +127,8 @@ Nebula r04 - May 21, 2025
 - UPSTREAM: selftests/vm/.gitignore: add mremap_dontunmap (John Hubbard)
 - FROMLIST: selftests: Add a MREMAP_DONTUNMAP selftest for shmem (Brian Geffon)
 - UPSTREAM: selftests: add MREMAP_DONTUNMAP selftest (Brian Geffon)
+
+---
 
 Nebula r03 - May 16, 2025
 - Merge 'Qcom-up' & '5.4.293' + fixes (TogoFire)

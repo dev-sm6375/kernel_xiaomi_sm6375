@@ -1,6 +1,6 @@
 &nbsp;
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Karan-Frost/images/refs/heads/main/nebula-r05.jpg" width="450px" alt="" />
+  <img src="https://raw.githubusercontent.com/Karan-Frost/images/refs/heads/main/nebula-veux.png" width="450px" alt="" />
 </p>
 <h3 align="center">Nebula Kernel</h3>
 
