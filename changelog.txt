@@ -1,9 +1,13 @@
 Highlights & Nebula Kernel Specific Changes:
 Build type: Monthly or Weekly
-Device: POCO X4 Pro 5G/ Redmi Note 11 Pro 5G/ 11 Pro + 5G/ 11E Pro (veux/peux)
-Kernel maintainer: @TogoFire & @Karan-Frost
+Device: Redmi Note 11 Pro / 11 Pro+ / 11E Pro / POCO X4 Pro (veux/peux)
+Kernel maintainers: @TogoFire & @Karan-Frost
 
 ---
+
+Nebula r05.2 - August 31, 2025
+- Decreased swappiness to 70 (85 was too aggressive).
+- Fixed KernelSU Next zygisk modules. Also added new method to use various KernelSU managers. Disabled KPROBES.
 
 Nebula r05.1 - August 13, 2025
 - Added support for Device As Webcam.
