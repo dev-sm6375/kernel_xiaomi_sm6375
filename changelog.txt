@@ -5,6 +5,12 @@ Kernel maintainers: @TogoFire & @Karan-Frost
 
 ---
 
+Nebula r06 - September 16, 2025
+- Updated to ASB-2025-09-05_11-5.4.
+- Uprev KernelSU.
+
+---
+
 Nebula r05.2 - August 31, 2025
 - Decreased swappiness to 70 (85 was too aggressive).
 - Fixed KernelSU Next zygisk modules. Also added new method to use various KernelSU managers. Disabled KPROBES.
