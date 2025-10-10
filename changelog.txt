@@ -5,6 +5,13 @@ Kernel maintainers: @TogoFire & @Karan-Frost
 
 ---
 
+Nebula r07 - October 10, 2025
+- Updated to ASB-2025-10-06_11-5.4 and latest android11-5.4-lts.
+- Chnaged Wireguard stack.
+- Uprev KernelSU.
+
+---
+
 Nebula r06 - September 16, 2025
 - Updated to ASB-2025-09-05_11-5.4.
 - Uprev KernelSU.
